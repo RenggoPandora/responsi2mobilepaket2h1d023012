@@ -3,8 +3,8 @@
 ## Identitas Mahasiswa
 - **Nama**: Renggo
 - **NIM**: H1D023012
-- **Shift Baru**: (Isi shift baru Anda)
-- **Shift Asal**: (Isi shift asal Anda)
+- **Shift Baru**: B
+- **Shift Asal**: H
 
 ---
 
